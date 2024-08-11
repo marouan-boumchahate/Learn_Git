@@ -1,2 +1,4 @@
 def reversing(phrase):
-    return phrase[-1:]
+    lstPhrase = list(phrase)
+
+    return "".join(lstPhrase.reverse())
