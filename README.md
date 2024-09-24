@@ -12,7 +12,7 @@ in the home page provide information about The branch balances (Lira, USD, EUR, 
 
 ## Manage Employee Account (My Account)
 
-### Employee Information
+### <u>Employee Information</u>
 Display The employee information
 
 ### Update information
